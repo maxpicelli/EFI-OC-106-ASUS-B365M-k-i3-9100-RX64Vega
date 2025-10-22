@@ -1,20 +1,19 @@
-# EFI OpenCore
+# EFI OpenCore 1.0.6 - ASUS B365M-K + i3-9100 + RX Vega 64
 
-Este é o meu EFI para Hackintosh utilizando OpenCore.
+EFI OpenCore 1.0.6 configurado para Hackintosh com hardware Intel Coffee Lake.
 
 ## 📋 Especificações
 
-*(Adicione aqui as especificações do seu hardware)*
-
-- **CPU**: 
-- **GPU**: 
-- **Placa-Mãe**: 
-- **RAM**: 
-- **Armazenamento**: 
+- **CPU**: Intel Core i3-9100 (Coffee Lake)
+- **GPU**: AMD Radeon RX Vega 64
+- **Placa-Mãe**: ASUS B365M-K
+- **Chipset**: Intel B365
+- **RAM**: *(Adicione a quantidade de RAM)*
+- **Armazenamento**: *(Adicione seu SSD/HDD)*
 
 ## 🔧 Versão do OpenCore
 
-*(Verifique e adicione a versão do seu OpenCore)*
+- **OpenCore**: 1.0.6
 
 ## 📦 Kexts Incluídos
 
