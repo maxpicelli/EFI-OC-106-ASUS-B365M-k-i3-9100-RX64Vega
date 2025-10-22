@@ -28,6 +28,20 @@ EFI OpenCore 1.0.6 configurado para Hackintosh com hardware Intel Coffee Lake.
 - USBPorts
 - VirtualSMC
 
+## 📥 Instalação
+
+### Método 1: Download da Release
+
+1. Acesse a [página de Releases](https://github.com/maxpicelli/EFI-OC-106-ASUS-B365M-k-i3-9100-RX64Vega/releases)
+2. Baixe a versão mais recente (arquivo `.zip`)
+3. Extraia o arquivo
+
+### Método 2: Git Clone
+
+```bash
+git clone https://github.com/maxpicelli/EFI-OC-106-ASUS-B365M-k-i3-9100-RX64Vega.git
+```
+
 ## 🚀 Como Usar
 
 1. Faça backup do seu EFI atual
