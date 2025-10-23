@@ -2,18 +2,21 @@
 
 EFI OpenCore 1.0.6 configurado para Hackintosh com hardware Intel Coffee Lake.
 
+✅ **Compatível com macOS Tahoe 26.0.1**
+
 ## 📋 Especificações
 
 - **CPU**: Intel Core i3-9100 (Coffee Lake)
-- **GPU**: AMD Radeon RX Vega 64
+- **GPU**: Gigabyte AMD Radeon RX Vega 64
 - **Placa-Mãe**: ASUS B365M-K
 - **Chipset**: Intel B365
-- **RAM**: *(Adicione a quantidade de RAM)*
-- **Armazenamento**: *(Adicione seu SSD/HDD)*
+- **RAM**: 32GB DDR4 2400MHz
+- **Armazenamento**: HD 250GB
 
 ## 🔧 Versão do OpenCore
 
 - **OpenCore**: 1.0.6
+- **macOS Compatível**: Tahoe 26.0.1 (e versões anteriores)
 
 ## 📦 Kexts Incluídos
 
