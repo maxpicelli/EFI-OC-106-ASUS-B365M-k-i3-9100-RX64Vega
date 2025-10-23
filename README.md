@@ -42,7 +42,7 @@ EFI OpenCore 1.0.6 configurado para Hackintosh com hardware Intel Coffee Lake.
 ### Método 2: Git Clone
 
 ```bash
-git clone https://github.com/maxpicelli/EFI-OC-106-ASUS-B365M-k-i3-9100-RX64Vega.git
+git clone https://github.com/maxpicelli/EFI-OC-106-ASUS-B365M-k-i3-9100-RX64Vega.git && open EFI-OC-106-ASUS-B365M-k-i3-9100-RX64Vega
 ```
 
 ## 🚀 Como Usar
